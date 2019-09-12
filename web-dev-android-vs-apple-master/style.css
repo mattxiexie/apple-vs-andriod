@@ -1,0 +1,64 @@
+html {
+    background-color: #cabfb6;
+}
+
+body {
+    background-color: white;
+    width: 600px;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: "Open sans" ;
+}
+.images {
+    width:600px;
+}
+
+.explore {
+    text-align: center;  
+}
+
+a {
+    font-family: "Open sans";
+    text-decoration: none;
+    color: black;
+    background-color: #c9793b;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.Hr {
+   margin-top: 30px;
+}
+
+.par {
+    font-family: "Open sans";
+}
+
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+}
+
+.and{
+    background-color: #a4c93b;
+    font-size: 20px;
+    font-family: "Proza Libre";
+}
+.iph{
+    background-color: #b6bcca;
+    font-family: "Proza Libre";
+    font-size: 20px;
+}
+.par2 {
+    font-family: "Open sans";
+    margin-bottom: -20px;
+}
